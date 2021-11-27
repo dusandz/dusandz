@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dušan</h1>
 <h3 align="center">A full-stack web and mobile developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📝 I regulary write articles on [https://ddz.dev/blog](https://ddz.dev/blog)
-
 - 💬 Ask me about **react, symfony**
 
 - ⚡ Fun fact **Penguins have knees, but they bend backwards**
